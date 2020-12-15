@@ -13,11 +13,11 @@ table {
   overflow: hidden;
   margin: 12px 0;
   min-width: 300px;
-  background: #dad8d8;
+  background: #80b5c5;
 }
 
 .header-row {
-    background: #34495E;
+    background: #5f6e27;
     color: #fff
 }
 
@@ -26,3 +26,4 @@ th, td {
     margin: 5px 10px;
     padding: 6px;
 }
+​tr:nth-child(even) {background-color: #c74747;}
